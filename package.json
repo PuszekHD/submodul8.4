@@ -1,0 +1,23 @@
+{
+  "name": "modul8.4",
+  "version": "1.0.0",
+  "description": "short exercise from kodilla about alert and comments in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuszekHD/submodul8.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuszekHD/submodul8.4/issues"
+  },
+  "homepage": "https://github.com/PuszekHD/submodul8.4#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
