@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/PuszekHD/submodul8.4#readme",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
   }
 }
